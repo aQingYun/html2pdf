@@ -1,0 +1,16 @@
+.preview-btn {
+    color: #999;
+    width: 70px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    border: 1px solid #999;
+    position: fixed;
+    right: 20px;
+    top: 6px;
+    border-radius: 13px;
+    z-index: 999;
+    cursor: pointer;
+}
